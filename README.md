@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShaniDan
 - 👀 I’m interested in learning skills
-- 🌱 I’m currently learning IOS developing
+- 🌱 I’m currently learning IOS development, specifically making apps
 - 💞️ I’m looking to collaborate on learning swift programming language
 
 <!---
