@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @ShaniDan
-- 👀 I’m interested in learning skills
+- 👋 Hi, I’m Shani, an aspiring iOS Developer
 - 🌱 I’m currently learning IOS development, specifically making apps
 - 💞️ I’m looking to collaborate on learning swift programming language
 
