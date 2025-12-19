@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shani, an aspiring iOS Developer who is focused on making applications using SwiftUI
+- 👋 Hi, I’m Shani — an iOS developer focused on turning ideas into polished iOS apps using Swift and SwiftUI.
 
 <!---
 ShaniDan/ShaniDan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
