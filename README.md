@@ -24,4 +24,4 @@
 </p>
 
 ### 📈 Contribution Graph
-![graph](https://ghchart.rshah.org/C77DFF/ShaniDan)
+![graph](https://ghchart.rshah.org/FA7343/ShaniDan)
