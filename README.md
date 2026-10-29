@@ -19,9 +19,9 @@
 
 ### 📊 GitHub Stats
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShaniDan&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaniDan&layout=compact&theme=tokyonight" />
+  <img height="165" src="https://streak-stats.demolab.com?user=ShaniDan&theme=tokyonight" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShaniDan&theme=tokyonight" />
 </p>
 
 ### 📈 Contribution Graph
-![graph](https://github-readme-activity-graph.vercel.app/graph?username=ShaniDan&theme=tokyo-night)
+![graph](https://ghchart.rshah.org/C77DFF/ShaniDan)
